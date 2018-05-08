@@ -1,0 +1,408 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        2.6576097011566162,
+        6.6954007148742676,
+        -0.42881613969802856
+      ],
+      "min": [
+        -2.6507089138031006,
+        -1.0182273387908936,
+        -4.8447041511535645
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99999994039535522,
+        0.99996852874755859,
+        0.99995958805084229
+      ],
+      "min": [
+        -0.99991059303283691,
+        -0.99999994039535522,
+        -0.99995976686477661
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.69803923368453979,
+        0.64313727617263794,
+        0.55294120311737061,
+        1
+      ],
+      "min": [
+        0.039215687662363052,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 321243,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 48813,
+      "max": [
+        2.6548171043395996,
+        6.835756778717041,
+        -0.42900210618972778
+      ],
+      "min": [
+        -2.6577374935150146,
+        -1.0181382894515991,
+        -4.8447041511535645
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2158524,
+      "componentType": 5126,
+      "count": 48813,
+      "max": [
+        0.99999243021011353,
+        0.99996852874755859,
+        0.99995958805084229
+      ],
+      "min": [
+        -0.99992740154266357,
+        -0.99999994039535522,
+        -0.99993586540222168
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 48813,
+      "max": [
+        0.69803923368453979,
+        0.64313727617263794,
+        0.55294120311737061,
+        1
+      ],
+      "min": [
+        0.039215687662363052,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1284972,
+      "componentType": 5125,
+      "count": 181095,
+      "max": [
+        48812
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2744280,
+      "componentType": 5126,
+      "count": 1690,
+      "max": [
+        1.7373334169387817,
+        5.7295055389404297,
+        -2.3734920024871826
+      ],
+      "min": [
+        -1.7373334169387817,
+        4.6065287590026855,
+        -3.4939913749694824
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2764560,
+      "componentType": 5126,
+      "count": 1690,
+      "max": [
+        0.99975776672363281,
+        0.98957890272140503,
+        0.99508124589920044
+      ],
+      "min": [
+        -0.99982482194900513,
+        -0.98743736743927002,
+        -0.99622988700866699
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1829520,
+      "componentType": 5126,
+      "count": 1690,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2009352,
+      "componentType": 5125,
+      "count": 10014,
+      "max": [
+        1689
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "ar7ific1al (https://sketchfab.com/ar7ific1al)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/83cf87ef97fc4231989387c326152a09",
+      "title": "Weird Mouth Creature"
+    },
+    "generator": "Sketchfab-3.22.5",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2049408,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2784840,
+      "byteOffset": 2049408,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1856560,
+      "byteOffset": 4834248,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6690808,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "HeadMouth",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.2943978659
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1,
+        1,
+        0
+      ],
+      "name": "HeadMouth1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          0.90228009860000002,
+          0,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.1114710366
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "HeadMouth_HeadMouth_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 2,
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "HeadMouth_HeadMouth_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 6,
+            "NORMAL": 5,
+            "POSITION": 4
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "HeadMouth1_HeadMouth1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 10,
+            "NORMAL": 9,
+            "POSITION": 8
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "d0698ee1423c42a8bceeae83d4d31f79.fbx"
+    },
+    {
+      "children": [
+        4,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        6
+      ],
+      "name": "HeadMouth"
+    },
+    {
+      "mesh": 0,
+      "name": "HeadMouth_HeadMouth_0"
+    },
+    {
+      "mesh": 1,
+      "name": "HeadMouth_HeadMouth_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "HeadMouth1"
+    },
+    {
+      "mesh": 2,
+      "name": "HeadMouth1_HeadMouth1_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
